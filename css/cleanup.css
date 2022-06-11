@@ -1,1 +1,24 @@
 /* write your override styles here */
+
+
+.tag-1{
+    top: 270px;
+}
+
+#tag-2 {
+    bottom: 100000px;
+}
+
+body{
+    background-color: red;
+}
+
+.slick{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-shadow: none;
+    margin: 0 0 0 1px;
+    flex-wrap: wrap;
+}
